@@ -1,5 +1,5 @@
 
-# Hi, I'm Diego! 👋
+# Hi, I'm Diego Tolentino! 👋
 
 I'm a data enthusiast with a passion for translating numbers into meaningful data. 
 
