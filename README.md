@@ -1,7 +1,7 @@
 
 # Hi, I'm Diego! 👋
 
-I'm a data enthusiast with a passion for translating numbers into meaningful data. 
+An engineer with a passion for translating numbers into meaningful data. I'm interested in using machine learning to gather insight and predict feature behavior. 
 
 
 
