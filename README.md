@@ -1,7 +1,7 @@
 
 # Hi, I'm Diego! 👋
 
-An engineer with a passion for translating numbers into meaningful data. I'm interested in using machine learning to gather insight and predict feature behavior. 
+I'm a data enthusiast with a passion for translating numbers into meaningful data. 
 
 ## 🛠 Tools
 * ✏ Languages: Python, MATLAB, R 
@@ -9,8 +9,8 @@ An engineer with a passion for translating numbers into meaningful data. I'm int
 * 👀 Visualization: Tableau 
 * ☁ Cloud: AWS 
 
-##Portfolio 
-Visit my data science portfolio 
+## 📊 Portfolio
+Visit my data science [portfolio](https://github.com/djtolentino/Portfolio)
 
 ## 📚 Currently Learning 
 *  PyTorch and TensorFlow 
