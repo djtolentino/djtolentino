@@ -12,5 +12,3 @@ I'm a data enthusiast with a passion for translating numbers into meaningful dat
 ## 📊 Portfolio
 Visit my data science [portfolio](https://github.com/djtolentino/Portfolio)
 
-## 📚 Currently Learning 
-*  PyTorch and TensorFlow 
